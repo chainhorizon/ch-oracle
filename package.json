@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ethers": "^5.0.32",
+    "eventcontainer": "^0.0.2",
+    "skyserver": "^0.0.1-alpha-0",
+    "skyutil": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1"
+  }
+}
